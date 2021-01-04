@@ -44,7 +44,7 @@ function About() {
                    <tr>
                         <td>Website</td>
                         <td>
-                            <a>https://yaarme.com/</a>
+                            <a href="https://yaarme.com/">https://yaarme.com/</a>
                         </td>
                     </tr>
                     <tr>
@@ -79,7 +79,7 @@ function About() {
                 <h3 style={{padding:'8px'}}>People Also Viewed</h3>
                 <div className="company_list">
                     <div className="company_logo">
-                        <img src ={logo} style={{width:"60px",height:'60px'}}/>
+                        <img src ={logo} alt="" style={{width:"60px",height:'60px'}}/>
                     </div>
                     <div className="company_name">
                         <p><b>GoTestSeries</b></p>
@@ -92,7 +92,7 @@ function About() {
                 </div>
                 <div className="company_list">
                     <div className="company_logo">
-                        <img src ={logo} style={{width:"60px",height:'60px'}}/>
+                        <img src ={logo} alt="" style={{width:"60px",height:'60px'}}/>
                     </div>
                     <div className="company_name">
                         <p><b>gotestseries</b></p>
@@ -105,7 +105,7 @@ function About() {
                 </div>
                 <div className="company_list">
                     <div className="company_logo">
-                        <img src ={logo} style={{width:"60px",height:'60px'}}/>
+                        <img src ={logo} alt="" style={{width:"60px",height:'60px'}}/>
                     </div>
                     <div className="company_name">
                         <p><b>Yaar</b></p>
